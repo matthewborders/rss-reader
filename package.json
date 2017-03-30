@@ -1,0 +1,23 @@
+{
+  "name": "rss-reader",
+  "version": "1.0.0",
+  "description": "NodeJs RSS Reader",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewborders/rss-reader.git"
+  },
+  "author": "Matthew Borders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewborders/rss-reader/issues"
+  },
+  "homepage": "https://github.com/matthewborders/rss-reader#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "rss-parser": "^2.6.1"
+  }
+}
